@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com" alt="Typing introduction" />
-font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Boy%20h%E1%BB%8Dc%20code%2Cth%C3%ADch%20ch%C6%A1i%20c%E1%BA%A7u%20l%C3%B4ng%20%F0%9F%AB%B6%F0%9F%8F%BB" alt="Typing introduction" />
 </p>
 
 ## 📌 About Me
