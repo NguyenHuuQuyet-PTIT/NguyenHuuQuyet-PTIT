@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com" alt="Typing introduction" />
+  Boy+h%E1%BB%8Dc+code%2C+th%C3%ADch+ch%C6%A1i+c%E1%BA%A7u+l%C3%B4ng+%F0%9F%AB%B6%F0%9F%8F%BB
 </p>
 
 ## 📌 About Me
