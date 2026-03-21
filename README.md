@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nguy%E1%BB%85n%20H%E1%BB%AFu%20Quy%E1%BA%BFt&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=WEB%20Developer%20v%C3%A0%20Phishing%20Attack&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing introduction" />
-  Boy+h%E1%BB%8Dc+code%2C+th%C3%ADch+ch%C6%A1i+c%E1%BA%A7u+l%C3%B4ng+%F0%9F%AB%B6%F0%9F%8F%BB
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=NguyenHuuQuyet-PTIT&label=Profile%20views&color=00FFFF&style=flat-square)
 
 ## 📌 About Me
 - 🎓 Sinh viên chuyên ngành CNTT UDU học tại PTIT.
