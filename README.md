@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Boy+h%E1%BB%8Dc+code%2C+th%C3%ADch+ch%C6%A1i+c%E1%BA%A7u+l%C3%B4ng+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Typing introduction" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NguyenHuuQuyet-PTIT&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-</p>
-
 ## 📌 About Me
 - 🎓 Sinh viên chuyên ngành CNTT UDU học tại PTIT.
 - 👨‍💻 Đam mê nghiên cứu về Computer Vision và Cyber Security.
