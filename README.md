@@ -26,15 +26,16 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/NguyenHuuQuyet-PTIT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&show_icons=true" alt="Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
