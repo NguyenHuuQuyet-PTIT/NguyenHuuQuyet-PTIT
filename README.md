@@ -65,16 +65,6 @@
   </a>
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Boy+h%E1%BB%8Dc+code%2C+th%C3%ADch+ch%C6%A1i+c%E1%BA%A7u+l%C3%B4ng+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Typing introduction" />
-
-<br/>
-
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&color=00FFFF&align=center&no-border=true" alt="Quote" />
-
-<br/>
-
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -91,8 +81,6 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/>
   </a>
 </p>
-
-</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
