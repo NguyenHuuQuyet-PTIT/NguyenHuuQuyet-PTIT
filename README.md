@@ -26,15 +26,20 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/NguyenHuuQuyet-PTIT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Streak" width="49%" />
-</p>
+    <a href="https://github.com/NguyenHuuQuyet-PTIT">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+    </a>
+    <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Streak" />
+  </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&layout=donut&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenHuuQuyet-PTIT&theme=tokyonight" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" width="100%" alt="GitHub Trophies" />
+  </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NguyenHuuQuyet-PTIT/NguyenHuuQuyet-PTIT/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -61,12 +66,6 @@
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" height="48" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&layout=donut&theme=tokyonight&count_private=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenHuuQuyet-PTIT&theme=tokyonight" width="52%" />
-</p>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyenhuuquyet-ptit" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40" style="margin: 0 8px;"/></a> 
@@ -75,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Invader" width="100%" />
 </p>
 
 <p align="center">
