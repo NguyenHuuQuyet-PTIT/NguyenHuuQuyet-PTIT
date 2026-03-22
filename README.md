@@ -65,9 +65,34 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/nguyenhuuquyet-ptit" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/989287807" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:Qquyetnh.ptit@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.facebook.com/nguyen.huu.quyet.2007" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Boy+h%E1%BB%8Dc+code%2C+th%C3%ADch+ch%C6%A1i+c%E1%BA%A7u+l%C3%B4ng+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Typing introduction" />
+
+<br/>
+
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&color=00FFFF&align=center&no-border=true" alt="Quote" />
+
+<br/>
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyenhuuquyet-ptit" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="https://wa.me/989287807" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="mailto:Qquyetnh.ptit@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="https://www.facebook.com/nguyen.huu.quyet.2007" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="Facebook" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+</p>
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
