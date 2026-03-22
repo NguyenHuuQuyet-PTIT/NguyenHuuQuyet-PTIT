@@ -10,6 +10,11 @@
 - 💡 Thiên hướng **WEB Developer** và **Phishing Attack**.
 - 🌱 Đang tìm hiểu về **Software Architect** và **React Native Developer**.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&layout=donut&theme=tokyonight&count_private=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenHuuQuyet-PTIT&theme=tokyonight" width="52%" />
+</p>
+
 ## 🧠 My Focus Areas
 - 1️⃣ WEB Developer
 - 2️⃣ Phishing Attack
