@@ -10,11 +10,6 @@
 - 💡 Thiên hướng **WEB Developer** và **Phishing Attack**.
 - 🌱 Đang tìm hiểu về **Software Architect** và **React Native Developer**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&layout=donut&theme=tokyonight&count_private=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenHuuQuyet-PTIT&theme=tokyonight" width="52%" />
-</p>
-
 ## 🧠 My Focus Areas
 - 1️⃣ WEB Developer
 - 2️⃣ Phishing Attack
@@ -67,9 +62,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NguyenHuuQuyet-PTIT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuQuyet-PTIT&layout=donut&theme=tokyonight&count_private=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenHuuQuyet-PTIT&theme=tokyonight" width="52%" />
+</p>
 </p>
 
 ## 🔗 Connect with Me
