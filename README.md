@@ -20,22 +20,20 @@
 ## 🛡️ Security & Dev Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-262626?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/NguyenHuuQuyet-PTIT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenHuuQuyet-PTIT&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=NguyenHuuQuyet-PTIT&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=3600" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=NguyenHuuQuyet-PTIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -43,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenHuuQuyet-PTIT&theme=tokyonight&radius=10&cache_seconds=3600" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenHuuQuyet-PTIT&theme=tokyonight&radius=10&cache_seconds=1800" alt="Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
